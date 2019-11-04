@@ -1,6 +1,6 @@
 {
   "name": "stockbffnodereact",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "org": "yourorg",
   "description": "12 UI Patterns written with React and Node.js",
   "private": true,
